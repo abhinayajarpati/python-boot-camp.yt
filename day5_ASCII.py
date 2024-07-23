@@ -1,0 +1,10 @@
+'''to print ascii value of the particular character we use "ord"  '''
+print(ord("A"))
+print(ord('A')*3)
+print(ord("a"))
+print(ord("0"))
+print(ord("#"))
+print(ord("{}"))
+print(ord(">"))
+print(ord("<"))
+print(chr(54))
